@@ -1,0 +1,1 @@
+export 'parking_spot_widget.dart';
